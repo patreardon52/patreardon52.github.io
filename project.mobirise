@@ -14,9 +14,9 @@
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
         "display1Font": "Rubik",
-        "display1Size": 4.25,
+        "display1Size": "4.6",
         "display2Font": "Rubik",
-        "display2Size": 3,
+        "display2Size": "3.2",
         "display5Font": "Rubik",
         "display5Size": "1.6",
         "display7Font": "Rubik",
@@ -38,7 +38,11 @@
     "versionPublish": "4.10.0",
     "favicon": "@PROJECT_PATH@/assets/images/logo-solo-format.gif",
     "noImageResize": "",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "siteUrl": "http://www.insolvencysolutions.com.au",
+    "sitemapSwitcherAuto": "on",
+    "google-analytics": "UA-139912627-1\r\n",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "insolvencysolutions.html": {
